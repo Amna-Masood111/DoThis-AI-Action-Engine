@@ -11,3 +11,4 @@ pypdf
 python-docx
 Pillow
 pytesseract
+tzdata
